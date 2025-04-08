@@ -50,4 +50,4 @@ Use ***inline*** styles for quick, one-time changes.
 *By using CSS effectively, you can make your webpage more visually appealing and organized!*
 
 To learn more about CSS and HTML and how they are used, check out the resources on [**CodeAcademy**](https://www.codecademy.com/resources/docs/css/anatomy)
->>>>>>> fbf342e (Update README content)
+
